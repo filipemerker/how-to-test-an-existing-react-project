@@ -4,13 +4,13 @@ First thing when contibuting to public projects on github should be creating an 
 
 There you can use a very objective template:
 
-**Title**: Add tests
-
-**Description**: Hey @owner, great lib!
-
-I could help you by adding tests, how about that? `jest` + `react-testing-library`?
-
-From there, if the woner approves, fork the repo and go ahead:
+> **Title**: Add tests
+> 
+> **Description**: Hey @owner, great lib!
+> 
+> I could help you by adding tests, how about that? `jest` + `react-testing-library`?
+> 
+> From there, if the woner approves, fork the repo and go ahead:
 
 # React Native
 
